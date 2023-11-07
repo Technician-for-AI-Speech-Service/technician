@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Title</title>
+    <style>
+        body {
+            background-image: url("/static/img/signup1.jpg");
+            background-size: cover;
+        }
+
+        #navigation {
+            margin: top 1.2em;
+            ;
+        }
+
+
+        /* 전체 화면 가로선을 위한 스타일 */
+        .full-width-line {
+            width: 100%;
+            /* 선의 너비를 화면 전체로 설정 */
+            height: 1.2vh;
+            /* 선의 두께, 원하는 만큼 조정 가능 */
+            background-color: black;
+            /* 선의 색상, 원하는 색으로 변경 가능 */
+            margin-top: 3.5vh;
+            /* 버튼과 선 사이의 간격 */
+        }
+
+
+        /* 반응형 레이아웃을 위한 미디어 쿼리 */
+        @media (max-width: 768px) {
+            .btn1 {
+                margin-left: auto;
+                /* 화면이 줄어들면 자동으로 오른쪽에 붙음 */
+            }
+        }
+
+        @media (min-width: 769px) {
+            .btn1 {
+                margin-left: calc(100% - 120px);
+                /* 버튼 너비와 마진을 고려한 계산 */
+            }
+        }
+
+        .center-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 70vh;
+            /* 브라우저 높이에 맞춤 */
+        }
+
+        /* 원 스타일 */
+        .center-circle {
+            width: 20vw;
+            /* 원의 너비 */
+            height: 20vw;
+            /* 원의 높이 */
+            max-width: 20vw;
+            max-height: 40vh;
+            min-width: 10vw;
+            min-height: 20vh;
+            background-color: #f00;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: box-shadow 0.3s ease;
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: calc(1vw + 1vh + 0.5vmin);
+            /* 폰트 크기도 뷰포트에 따라 조절 */
+            text-align: center;
+            /* top과 left, transform 속성은 더 이상 필요하지 않음 */
+        }
+
+
+        .center-circle:hover {
+            box-shadow: 0 0 20px #fff;
+            /* 마우스 오버 시 반짝이는 효과 */
+            background-color: #c00;
+            /* 마우스 오버 시 색상 변경 */
+            font-weight: bolder;
+            font-size: 3vi;
+        }
+
+        .circle-text {
+            font-size: 2vw;
+            /* 텍스트 크기를 원의 크기에 맞게 조정 */
+            user-select: none;
+            /* 텍스트 선택 방지 */
+            transition: color 0.3s;
+            /* 색상 변화에 애니메이션 효과 적용 */
+            font-size: 3vi;
+            font-weight: bolder;
+        }
+
+        .center-circle:hover .circle-text {
+            color: black;
+            /* 마우스 오버 시 텍스트 색상을 검은색으로 변경 */
+            font-weight: bolder;
+            font-size: 3vi;
+        }
+
+        .circle-clicked {
+            color: blue;
+            /* 클릭 시 텍스트 색상을 파란색으로 변경 */
+            font-weight: bolder;
+            font-size: 3vi;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="navigation" style="display: flex; justify-content: space-between; align-items: center;">
+        <a href="/" style="margin-left: 15%;">
+            <img src="/static/img/logo.png" style="width: 16vw; height: 12vh;" alt="logo">
+        </a>
+        <ul id="nav" class="nav navbar-nav"
+            style="list-style-type: none; display: flex; margin-right: 10%; padding: 0;">
+            <li>
+                <a href="/user/login" style="display: flex; align-items: center;">
+                    <img src="/static/img/log-in.png" style="width: 6vw; height: 12vh;">
+                </a>
+            </li>
+            <li>
+                <a href="/user/signup" style="display: flex; align-items: center; margin-left:4vw">
+                    <img src="/static/img/signup.png" style="width: 6vw; height: 12vh;">
+                </a>
+            </li>
+        </ul>
+    </div>
+
+            <!-- 전체 너비의 가로선을 그리기 위한 div 추가 -->
+            <div class="full-width-line"></div>
+</body>
+
+</html>
