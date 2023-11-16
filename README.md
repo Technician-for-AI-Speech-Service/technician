@@ -6,7 +6,7 @@
 
 2) 설치 툴 및 라이브러리
     1. 설치 툴 : Python, MySQL Workbench, Microsoft C++ Build Tools
-    2. 라이브러리(Visual Studio) : pip-packages, pyproject.html snippets, MySQL, MySQL Shell for VS Code, mysqlconnector, PowerShell, PowerShell, PowerSheel Snippets
+    2. 라이브러리(Visual Studio) : pip-packages, pyproject.html snippets, MySQL, MySQL Shell for VS Code, mysqlconnector, PowerShell, PowerShell, PowerShell Snippets
 
 3) DB연결 (MySQL 연결) : MySQL Workbench 창 - MySQL Connections (+) 클릭 - Setup New Connection 정보 입력 - Test Connection 버튼 클릭 - Success 창(연결성공 창) 확인
 
@@ -71,3 +71,10 @@ ERROR: Could not build wheels for mysqlclient, which is required to install pypr
    * 툴 설치후 도구설치 : 워크로드에서 '데스크톱 및 모바일' - C++를 사용한 데스크톱 개발 및 기타 필요한 도구들 설치 
 
 ex) error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+6. watchdog Import 에러 :
+   ImportError: cannot import name 'EVENT_TYPE_OPENED' from 'watchdog.events' 발생시
+   watchdog 삭제 후 재설치
+   (1) pip uninstall watchdog
+   (2) pip install watchdog
+   
