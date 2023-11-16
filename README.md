@@ -73,6 +73,7 @@ ERROR: Could not build wheels for mysqlclient, which is required to install pypr
 ex) error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 6. watchdog Import 에러 :
+
    ImportError: cannot import name 'EVENT_TYPE_OPENED' from 'watchdog.events' 발생시
    watchdog 삭제 후 재설치
    (1) pip uninstall watchdog
