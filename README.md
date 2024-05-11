@@ -50,5 +50,5 @@
 
 ---
 ### 최종발표 PPT자료
-[![image](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283302/_PPT.pptx)
+[![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/b84ce570-5666-47d6-b04e-d1051478b824)](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283302/_PPT.pptx)
 [최종발표 PPT](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283302/_PPT.pptx)
