@@ -22,7 +22,6 @@
 
 ---
 ### 시제품 설계도
-![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/dfc8f2d9-75f3-4f69-b05d-e69d0e47d8b7)
 ![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/583079f9-aeb1-43ff-a850-58ff3b2f45e3)
 
 
