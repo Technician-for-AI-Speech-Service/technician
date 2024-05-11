@@ -44,10 +44,9 @@
 
 ---
 ### 시연영상
-[![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/3e8c489e-57dd-41e8-94e0-ea3b83c1eea2)](https://www.youtube.com/watch?v=y84rJoFc4vo)
+[![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/3e8c489e-57dd-41e8-94e0-ea3b83c1eea2)](https://www.youtube.com/watch?v=XkKwDDD4DMA)
 
-[시연영상](https://www.youtube.com/watch?v=y84rJoFc4vo)
-
+[시연영상](https://www.youtube.com/watch?v=XkKwDDD4DMA)
 ---
 ### 최종발표 PPT자료
 [![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/b84ce570-5666-47d6-b04e-d1051478b824)](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283302/_PPT.pptx)
