@@ -1,4 +1,4 @@
-# 🥛 Technician
+# 🧑‍💻 Technician
 구음장애 환자를 위한 AI 음성변환 서비스
 
 ---
