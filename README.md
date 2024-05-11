@@ -44,13 +44,13 @@
 ![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/c1834c0e-dd3b-4f99-88c0-58460618c484)
 
 ---
-##### 시연영상
+### 시연영상
 [![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/3e8c489e-57dd-41e8-94e0-ea3b83c1eea2)](https://www.youtube.com/watch?v=y84rJoFc4vo)
 
 [시연영상](https://www.youtube.com/watch?v=y84rJoFc4vo)
 
 ---
-##### 최종발표 PPT자료
+### 최종발표 PPT자료
 [![image](https://github.com/kwanyeong/e-convient-Life-Service/assets/124857002/e2080355-d78b-4bd3-9b17-21cfd5a2adad)](https://github.com/kwanyeong/e-convient-Life-Service/assets/124857002/e2080355-d78b-4bd3-9b17-21cfd5a2adad)
 [최종발표 PPT](https://github.com/kwanyeong/e-convient-Life-Service/files/13269935/ECO._.pptx)
 
