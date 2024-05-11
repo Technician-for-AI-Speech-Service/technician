@@ -49,6 +49,6 @@
 [시연영상](https://www.youtube.com/watch?v=XkKwDDD4DMA)
 ---
 ### 최종발표 PPT자료
-[![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/b84ce570-5666-47d6-b04e-d1051478b824)](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283314/_PPT._.pptx)
+[![image](https://github.com/Technician-for-AI-Speech-Service/technician/assets/124857002/b84ce570-5666-47d6-b04e-d1051478b824)](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283317/_PPT._.pptx)
 
-[최종발표 PPT](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283314/_PPT._.pptx)
+[최종발표 PPT](https://github.com/Technician-for-AI-Speech-Service/technician/files/15283317/_PPT._.pptx)
